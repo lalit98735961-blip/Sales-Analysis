@@ -55,8 +55,9 @@ Interactive Dashboard Features
  Dynamic filtering by Year, Category, Sub-Category, and Top N Products.
  Enables users to drill down into sales performance and identify trends across multiple business dimensions.
 
-#SQL Sales Analysis
-Project Overview
+# Super Store Sales Analysis using SQL
+
+## Project Overview
 
 In this project, I analyzed the Super Store sales dataset using SQL Server to understand sales performance, customer behavior, product performance, regional trends, shipping, and the impact of discounts. The goal was to turn raw data into meaningful insights that can help businesses make better decisions.
 
