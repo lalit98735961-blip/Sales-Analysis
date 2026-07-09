@@ -94,3 +94,42 @@ In this project, I analyzed the Super Store sales dataset using SQL Server to un
 ## What I Learned
 
 This project helped me improve my SQL skills and understand how businesses use data to make decisions. By analyzing sales, customers, products, regions, shipping, and discounts, I learned how to find useful insights that can help improve sales, increase profit, and support better business planning.
+
+# Super Store Sales Analysis using Python
+
+## Project Overview
+
+In this project, I analyzed the Super Store dataset using Python. The main goal was to clean the data, understand the sales performance, and find useful business insights. I used **NumPy** and **Pandas** for data analysis and **Matplotlib** for visualization.
+
+## What I Did
+
+* Imported the required Python libraries like NumPy, Pandas, and Matplotlib.
+* Loaded the Super Store dataset into Python.
+* Checked the number of rows and columns in the dataset.
+* Identified missing values and filled them to make the dataset ready for analysis.
+* Removed duplicate records to improve data quality.
+* Explored the dataset by checking column names, data types, and summary statistics.
+* Analyzed total sales, total profit, total quantity sold, average sales, and average profit.
+* Compared sales and profit across different product categories.
+* Analyzed sales and profit based on customer segments.
+* Compared sales and profit across different regions and states.
+* Identified all unique customer names and calculated the total number of customers.
+* Converted the **Order Date** column into a proper date format.
+* Created new columns like **Year**, **Quarter**, and **Month** for time-based analysis.
+* Analyzed quarterly sales performance and calculated total sales for the year 2018.
+
+## Skills Used
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* GroupBy Operations
+* Date & Time Analysis
+* Business Data Analysis
+
+## Business Value
+
+This analysis helps businesses understand which categories, regions, and customer segments generate the highest sales and profit. It also makes it easier to track sales performance over time and supports better business decisions using data.
